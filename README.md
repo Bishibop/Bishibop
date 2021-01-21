@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Nicholas Mullen. I write code to improve software companies' marketing and sales efforts. Think of things like complex lead scoring, custom CRM integrations, and web applications to increase lead acquisition. 
+My name is Nicholas Mullen. I write code to improve software companies' marketing and sales efforts. Think of things like complex lead scoring, custom CRM workflow automations, technical product demos and web applications to increase lead acquisition. 
 
 My favorite tools are Python, React, Mathematica and AWS Lambda.
 
